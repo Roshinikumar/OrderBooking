@@ -1,0 +1,19 @@
+.order-book-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: right;
+}
+
+h3 {
+  text-align: center;
+}
